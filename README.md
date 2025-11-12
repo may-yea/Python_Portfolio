@@ -510,6 +510,10 @@ fig.tight_layout()
 
 
 
+
+
+
+
 # Python Fundamentals
 
 ```python
@@ -1003,15 +1007,6 @@ matplotlib.pyplot.show()
 ![png](output_5_0.png)
 
 
-
-```python
-
-```
-
-
-```python
-
-```
 
 
 
