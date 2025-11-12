@@ -1,6 +1,10 @@
 # Yeagle_Python_Portfolio
 BISC 450 Final Project (collection of Python code learned during BISC 450)
 
+# Using Jupyter Notebooks 1 and 2
+
+
+
 # Python Fundamentals
 
 ```python
@@ -135,6 +139,10 @@ print('weight in kilograms is now:', weight_kg)
 ```
 
     weight in kilograms is now: 65.0
+
+# Analyzing Data 1, 2, and 3
+
+
 
 # Storing Values in Lists
 
@@ -369,4 +377,26 @@ print(len(name))
 ```
 
     3
+
+# Using Multiple Files
+
+
+
+# Making Choices
+
+
+
+# Functions 1, 2, 3, and 4
+
+
+
+# Defensive Programming
+
+
+
+# Transcribing DNA into RNA
+
+
+
+# Translating RNA into Protein
 
