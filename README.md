@@ -460,7 +460,8 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 ```
 
 
-![png](output_16_0.png)
+<img width="435" height="267" alt="output_16_0" src="https://github.com/user-attachments/assets/dd4701a8-7f9c-4877-8639-adaabfb6ce94" />
+
 
 
 
@@ -471,7 +472,8 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 ```
 
 
-![png](output_17_0.png)
+<img width="451" height="267" alt="output_17_0" src="https://github.com/user-attachments/assets/973182eb-2875-4fbb-a69c-1fce960330e7" />
+
 
 
 
@@ -491,7 +493,8 @@ fig.tight_layout()
 ```
 
 
-![png](output_18_0.png)
+<img width="991" height="280" alt="output_18_0" src="https://github.com/user-attachments/assets/b6d4b945-2ae5-4aba-b459-eb024942c172" />
+
 
 
 
@@ -945,7 +948,7 @@ matplotlib.pyplot.show()
 ```
 
 
-![png](output_1_0.png)
+
 
 
 
