@@ -948,6 +948,7 @@ matplotlib.pyplot.show()
 ```
 
 
+<img width="178" height="251" alt="output_1_0" src="https://github.com/user-attachments/assets/80e3fe2c-a070-4d1a-af90-57ffbb175ac9" />
 
 
 
@@ -961,7 +962,8 @@ matplotlib.pyplot.show()
 ```
 
 
-![png](output_2_0.png)
+<img width="368" height="248" alt="output_2_0" src="https://github.com/user-attachments/assets/c11b0a67-1936-451a-a8d4-96eab912f508" />
+
 
 
 
@@ -971,7 +973,8 @@ matplotlib.pyplot.show()
 ```
 
 
-![png](output_3_0.png)
+<img width="378" height="248" alt="output_3_0" src="https://github.com/user-attachments/assets/a4d9e007-d558-4df6-9b54-5e181d5a672f" />
+
 
 
 
@@ -981,7 +984,8 @@ matplotlib.pyplot.show()
 ```
 
 
-![png](output_4_0.png)
+<img width="362" height="248" alt="output_4_0" src="https://github.com/user-attachments/assets/ba4e242e-14a0-464c-8859-239e7bdf755e" />
+
 
 
 
@@ -1008,7 +1012,8 @@ matplotlib.pyplot.show()
 ```
 
 
-![png](output_5_0.png)
+<img width="712" height="208" alt="output_5_0" src="https://github.com/user-attachments/assets/88bbf347-8ed5-4ec0-b346-522e97309cad" />
+
 
 
 
