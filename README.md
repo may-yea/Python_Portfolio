@@ -2365,6 +2365,7 @@ print(normalize_rectangle( (0.0, 0.0, 5.0, 1.0) ))
 
 
 # Transcribing DNA into RNA
+### The gene I chose is one called "Really Interesting New Gene" or "RING" :)
 
 ```python
 # Prompt the user to enter the input fasta file name
