@@ -1368,21 +1368,23 @@ for filename in filenames:
 
 
 
-![png](output_2_1.png)
+<img width="712" height="208" alt="output_2_1" src="https://github.com/user-attachments/assets/b9fef6e7-c56f-4b0b-8c1c-41b578b54421" />
+
 
 
     inflammation-02.csv
 
 
 
-![png](output_2_3.png)
+<img width="712" height="208" alt="output_2_3" src="https://github.com/user-attachments/assets/33b79c7d-997d-408c-a52d-83ad6fb60e9b" />
+
 
 
     inflammation-03.csv
 
 
+<img width="712" height="208" alt="output_2_5" src="https://github.com/user-attachments/assets/c41c9929-aa82-455e-b2ef-aee70e65fbf4" />
 
-![png](output_2_5.png)
 
 
 
