@@ -1798,7 +1798,8 @@ for filename in filenames:
 
 
 
-![png](output_3_1.png)
+<img width="712" height="208" alt="output_3_1" src="https://github.com/user-attachments/assets/2d9708dc-f653-4e17-82f3-aa4ac413cc29" />
+
 
 
     Suspicious looking maxima!
@@ -1806,15 +1807,16 @@ for filename in filenames:
 
 
 
-![png](output_3_3.png)
+<img width="712" height="208" alt="output_3_3" src="https://github.com/user-attachments/assets/a10f7174-0d6f-4c51-ba1e-4f1832bafee3" />
+
 
 
     Suspicious looking maxima!
     inflammation-03.csv
 
 
+<img width="712" height="208" alt="output_3_5" src="https://github.com/user-attachments/assets/7e3d1638-d382-41c9-a9b1-716918c39903" />
 
-![png](output_3_5.png)
 
 
     Minima add up to zero!
@@ -1822,7 +1824,8 @@ for filename in filenames:
 
 
 
-![png](output_3_7.png)
+<img width="712" height="208" alt="output_3_7" src="https://github.com/user-attachments/assets/769c6c07-1208-4a6b-b2b5-b5105d15aae2" />
+
 
 
     Suspicious looking maxima!
@@ -1830,7 +1833,8 @@ for filename in filenames:
 
 
 
-![png](output_3_9.png)
+<img width="712" height="208" alt="output_3_9" src="https://github.com/user-attachments/assets/466073a8-13d7-4e5d-b58e-75b0a17cd840" />
+
 
 
     Suspicious looking maxima!
@@ -1838,7 +1842,8 @@ for filename in filenames:
 
 
 
-![png](output_3_11.png)
+<img width="712" height="208" alt="output_3_11" src="https://github.com/user-attachments/assets/6c0bb01e-5d91-4d05-babd-5315c77704b8" />
+
 
 
     Suspicious looking maxima!
@@ -1846,7 +1851,8 @@ for filename in filenames:
 
 
 
-![png](output_3_13.png)
+<img width="712" height="208" alt="output_3_13" src="https://github.com/user-attachments/assets/07cfc84c-b4c0-4388-b785-f0e22c7b0e51" />
+
 
 
     Suspicious looking maxima!
@@ -1854,7 +1860,8 @@ for filename in filenames:
 
 
 
-![png](output_3_15.png)
+<img width="712" height="208" alt="output_3_15" src="https://github.com/user-attachments/assets/bf37c11b-2a4a-4248-b440-71e14050bba9" />
+
 
 
     Minima add up to zero!
@@ -1862,7 +1869,8 @@ for filename in filenames:
 
 
 
-![png](output_3_17.png)
+<img width="712" height="208" alt="output_3_17" src="https://github.com/user-attachments/assets/6f67cc68-0e1d-4141-b427-161fb13e2d20" />
+
 
 
     Suspicious looking maxima!
@@ -1870,7 +1878,8 @@ for filename in filenames:
 
 
 
-![png](output_3_19.png)
+<img width="712" height="208" alt="output_3_19" src="https://github.com/user-attachments/assets/754229ee-4881-4288-92e3-4d4a234b70e9" />
+
 
 
     Suspicious looking maxima!
@@ -1878,7 +1887,8 @@ for filename in filenames:
 
 
 
-![png](output_3_21.png)
+<img width="712" height="208" alt="output_3_21" src="https://github.com/user-attachments/assets/c5787966-e6ba-47cd-b938-30c56ac9f7b5" />
+
 
 
     Minima add up to zero!
@@ -1886,7 +1896,8 @@ for filename in filenames:
 
 
 
-![png](output_3_23.png)
+<img width="712" height="208" alt="output_3_23" src="https://github.com/user-attachments/assets/a5115221-74dc-4874-8b7c-2071e9358c32" />
+
 
 
     Suspicious looking maxima!
